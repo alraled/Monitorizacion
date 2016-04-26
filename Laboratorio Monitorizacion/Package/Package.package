@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="59f18e2e-fa92-4e15-9759-284c8d31441d" 
+        solutionId="59f18e2e-fa92-4e15-9759-284c8d31441d" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Laboratorio_Monitorizacion"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="516e4591-eb84-4284-abca-f8a6d05cca9d" />
+  </features>
+</package>

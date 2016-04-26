@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Assets">
+    <File Path="Assets\Sample.txt" Url="Assets/Sample.txt" ReplaceContent="TRUE" />
+    <File Path="Assets\jquery.ui.progressbar.css" Url="Assets/jquery.ui.progressbar.css" ReplaceContent="TRUE" />
+    <File Path="Assets\jquery-ui.css" Url="Assets/jquery-ui.css" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
